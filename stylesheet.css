@@ -1,0 +1,18 @@
+.en-tete{
+    padding: 20px;
+}
+
+.moustache{
+    width: 60px;
+    float:left;
+}
+
+.divshot {
+    float:left;
+    margin-left:15px;
+}
+
+.pts {
+    float:right;
+    margin-left:15px;
+}
