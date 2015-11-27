@@ -7,6 +7,7 @@ header, footer{
 main{
     width:90%;
     margin:auto;
+    padding-top:20px;
 }
 
 p, h1, h2, h3{
@@ -14,17 +15,9 @@ p, h1, h2, h3{
     text-align:justify;
 }
 
-
-.conteneur{
-    margin:15px;
-    padding:10px;
-}
-
 .entete{
-    width:30%;
     display:inline-block;
     vertical-align:top;
-    box-sizing:border-box;
     color: white;
 }
 
@@ -32,7 +25,6 @@ p, h1, h2, h3{
     width:20%;
     display:inline-block;
     vertical-align:top;
-    box-sizing:border-box;
 }
 
 header .image img{
@@ -48,7 +40,7 @@ ul li{
     width:45%;
     display:inline-block;
     vertical-align:top;
-    box-sizing:border-box;
+    padding-right:50px;
 }
 
 footer{
@@ -63,12 +55,10 @@ footer p{
     width:30%;
     display:inline-block;
     vertical-align:top;
-    box-sizing:border-box;
     margin-left:30px;
 }
 
 iframe{
     display:inline-block;
     vertical-align:top;
-    box-sizing:border-box;
 }
